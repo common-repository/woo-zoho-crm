@@ -1,0 +1,99 @@
+.form-inner .form-group{
+	overflow: auto;
+}
+.field-meta{
+	text-transform:capitalize;
+}
+div.dataTables_wrapper div.dataTables_length select{
+	width: 100%;
+}
+.sync-all button.btn {
+    margin-left: 5px;
+}
+.woocommerce-save-button{
+	 margin-top: 5px;
+}
+.table-responsive {
+    padding: 0 15px 0 0;
+}
+.text-support h3{
+	font-weight: 400;
+}
+h1.upgrade-pro-heading{
+	font-size: 30px;
+}
+h3.upgrade-pro-sub-heading {
+    font-size: 25px;
+}
+.upgrade-pro-sub-heading span{
+	color: #f16321;
+	font-weight: bolder;
+}
+.toplevel_page_wczc-menu .wp-submenu li a[href="admin.php?page=upgrade-pro"] {
+    color: #f16321 !important;
+    font-weight: bolder !important;
+}
+.upgrade-item{
+	padding: 15px;
+	border: 1px solid #0367a2;
+	border-radius: 30px 0;
+	background: #f1f1f1;
+	height: 100%;
+}
+.upgrade-item .heading{
+	color: #fff;
+	font-size: 22px;
+    font-weight: 600;
+	background: #0367a2;
+    padding: 10px;
+    margin: -15px -15px 15px;
+    border-radius: 25px 0;
+}
+.upgrade-item .heading-main{
+	background: transparent;
+}
+.upgrade-item .heading span {
+    border-bottom: 1px solid;
+}
+.feature-list li{
+	font-size: 14px;
+	padding-bottom: 5px;
+}
+.feature-list li i{
+	font-size: 18px;
+}
+.btn-primary{
+	background: #f16321;
+	border: 1px solid #f16321;
+	margin-top: 10px;
+	border-radius: 0px;
+	font-size: 20px;
+    padding: 7px 20px;
+}
+.btn-primary:hover{
+	background: #0367a2;
+	border: 1px solid #0367a2;
+}
+.details-outer {
+    display: inline-block;
+	position: relative;
+}
+.details-inner{
+	display: none;
+	position: absolute;
+	background: #fff;
+	border-radius: 5px;
+	z-index: 1;
+	padding: 10px;
+	right: 0;
+	border: 1px solid #ccc;
+}
+a.btn-details{
+	background: #ccc;
+}
+.details-outer:hover .details-inner {
+    display: block;
+}
+.wp-admin select{
+	max-width: 100%;
+}
